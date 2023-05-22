@@ -17,4 +17,4 @@ What does a case represent:
 In the game data, each case represents a game played by the Milwaukee Bucks, and there are a total of 82 games. In the rankings data, each case is a team and its respective rank. There are a total of 30 teams
   
 What do the variables mean:
-Each variable in the game data is abbreviated and confusing for those who are unfamiliar with them. However, a detailed description of the statistics is available on the NBA Website.
+Each variable in the game data is abbreviated and confusing for those who are unfamiliar with them. However, a detailed description of the statistics is available on the NBA Website. https://www.nba.com/stats/help/glossary
